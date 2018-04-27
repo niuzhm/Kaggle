@@ -40,3 +40,4 @@ print(melbourne_data.iloc[0:2, 2:])
 y = melbourne_data.Price
 print("y description")
 print(y.describe())
+
